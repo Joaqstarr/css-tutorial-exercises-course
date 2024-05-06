@@ -3,6 +3,18 @@ body {
 	background: rgb(189, 189, 189);
 }
 
+.cocacola {
+	list-style-type: lower-alpha;
+}
+.pepsi {
+	list-style-type: square;
+}
+.healthy {
+	list-style: armenian;
+}
+.dev-drinks {
+	list-style-type: none;
+}
 .container {
 	font-family: "Comic Sans MS", "Comic Sans", cursive;
 	margin: 0 auto;
